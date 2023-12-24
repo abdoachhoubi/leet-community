@@ -1,0 +1,88 @@
+{
+  "clubs": [
+    {
+      "title": "Leet WMD",
+      "description": "Elevating web and mobile development to new heights, our club is dedicated to pushing boundaries and creating impactful projects.",
+      "link": "https://example.com/leet-web-mobile-dev"
+    },
+    {
+      "title": "Elites' Security",
+      "description": "Defending the digital frontier, our Elites' Security club is committed to exploring and fortifying cybersecurity measures.",
+      "link": "https://example.com/elites-security"
+    },
+    {
+      "title": "AI Club",
+      "description": "Embark on a journey into the world of artificial intelligence, where our AI Club explores and embraces the cutting-edge of this transformative technology.",
+      "link": "https://example.com/ai-club"
+    },
+    {
+      "title": "Leet Makers",
+      "description": "Unleash your creativity in Leet Makers, where robotics enthusiasts come together to build, innovate, and explore the exciting realm of robotics.",
+      "link": "https://example.com/leet-makers"
+    },
+    {
+      "title": "Leet Music",
+      "description": "Harmonize your passion for music in Leet Music, where melody and rhythm intertwine with creativity and collaboration.",
+      "link": "https://example.com/leet-music"
+    },
+    {
+      "title": "Leet Events (Events Management)",
+      "description": "Create memorable experiences in Leet Events, where we manage and execute events that leave a lasting impact.",
+      "link": "https://example.com/leet-events"
+    },
+    {
+      "title": "Leet Sharks",
+      "description": "Dive into the world of entrepreneurship with Leet Sharks, where innovative ideas surface and aspiring entrepreneurs thrive.",
+      "link": "https://example.com/leet-sharks"
+    },
+    {
+      "title": "Leet Athletes",
+      "description": "Fuel your passion for sports in Leet Athletes, where teamwork, competition, and sportsmanship converge on the field of play.",
+      "link": "https://example.com/leet-athletes"
+    },
+    {
+      "title": "Leet Game Dev and Design",
+      "description": "Craft immersive gaming experiences in Leet Game Dev and Design, where creativity meets technology in the world of game development.",
+      "link": "https://example.com/leet-game-dev"
+    },
+    {
+      "title": "CPC",
+      "description": "Sharpen your coding skills and embrace the thrill of competition in CPC, where aspiring programmers challenge themselves to solve complex problems.",
+      "link": "https://example.com/cpc"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is the Leet Community?",
+      "answer": "The Leet Community is a diverse and collaborative network of clubs within our school, fostering innovation and growth in various fields, from technology and entrepreneurship to sports and entertainment."
+    },
+    {
+      "question": "How can I join a club?",
+      "answer": "To join a club, simply attend their regular meetings or events. Each club has its own recruitment process, so feel free to reach out to club members or leaders for more information."
+    },
+    {
+      "question": "Are there any membership fees?",
+      "answer": "Membership fees may vary by club. Please check with the specific club you're interested in to learn about any associated costs for joining."
+    },
+    {
+      "question": "Can I join multiple clubs?",
+      "answer": "Absolutely! We encourage members to explore their interests by joining multiple clubs. Each club offers a unique experience, allowing you to diversify your skills and connections."
+    },
+    {
+      "question": "How often do clubs meet?",
+      "answer": "Club meeting frequencies vary. Most clubs hold regular meetings, workshops, or events, and the schedule is typically shared through the club's communication channels. Check with each club for their specific meeting times."
+    },
+    {
+      "question": "I have an idea for a new club. How can I start one?",
+      "answer": "We love initiative! If you have an idea for a new club, reach out to the community organizers or the school administration to discuss the process of starting a new club. We're always open to fresh and exciting ideas!"
+    },
+    {
+      "question": "How can I contribute to the Leet Community?",
+      "answer": "There are numerous ways to contribute! Attend club events, participate in discussions, share your knowledge, and consider taking a leadership role within a club. Your engagement and enthusiasm help shape the vibrant spirit of the Leet Community."
+    },
+    {
+      "question": "Where can I find more information about upcoming events?",
+      "answer": "Stay updated on upcoming events by checking the community bulletin boards, following club social media accounts, and joining our centralized communication channels. Clubs often share event details through these channels."
+    }
+  ]
+}
